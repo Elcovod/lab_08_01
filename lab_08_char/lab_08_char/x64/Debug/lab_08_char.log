@@ -1,0 +1,3 @@
+﻿  lab_08_char.cpp
+F:\Project\lab_08_char\lab_08_char\lab_08_char.cpp(29,12): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  lab_08_char.vcxproj -> F:\Project\lab_08_char\x64\Debug\lab_08_char.exe

@@ -1,0 +1,6 @@
+﻿  UnitTest8.char.cpp
+F:\Project\lab_08_char\lab_08_char\lab_08_char.cpp(29,12): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest8.char.cpp')
+  
+     Creating library F:\Project\lab_08_char\x64\Debug\UnitTest8.char.lib and object F:\Project\lab_08_char\x64\Debug\UnitTest8.char.exp
+  UnitTest8.char.vcxproj -> F:\Project\lab_08_char\x64\Debug\UnitTest8.char.dll
