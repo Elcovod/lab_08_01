@@ -1,0 +1,8 @@
+﻿  UnitTest8.rec.cpp
+F:\Project\lab_08_rec\lab_08_rec\lab_08_rec.cpp(19,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest8.rec.cpp')
+  
+F:\Project\lab_08_rec\lab_08_rec\lab_08_rec.cpp(46,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest8.rec.cpp')
+  
+  UnitTest8.rec.vcxproj -> F:\Project\lab_08_rec\x64\Debug\UnitTest8.rec.dll
